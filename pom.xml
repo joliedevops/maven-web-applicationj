@@ -100,11 +100,6 @@
 	      <url> http://3.92.135.63:8081/repository/fusion_release/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.24.52.91:4000/repository/ebay-bts-snapshot/</url>
-	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
